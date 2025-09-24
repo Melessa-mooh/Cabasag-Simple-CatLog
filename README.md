@@ -1,1 +1,1 @@
-"Cabasag-Simple-CatLog" 
+Cabasag-Simple-CatLog Using GIT and Python Django Project
